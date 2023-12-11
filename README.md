@@ -1,0 +1,2 @@
+# assets
+Project static assets
